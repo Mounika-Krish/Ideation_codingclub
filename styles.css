@@ -448,26 +448,7 @@ ul li::before {
     margin-right: 1px;
 
   }
-  .neon{
-    display: flex;
-    
-    box-sizing: border-box;
-    display: flex;
-    justify-self: center;
-    min-height: 10vh;
-    flex-direction: column;
-    position: relative;
-    display: inline-block;
-    padding: 15px 20px;
-    margin: 40px 0;
-    color: #0239DB;
-    font-size: 15px;
-    text-decoration: none;
-    text-transform: uppercase;
-    transition: 0.5s;
-    letter-spacing: 4px;
-    left: 40%;
-  }
+  
   
 }
 
